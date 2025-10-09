@@ -1,6 +1,6 @@
 # Hey, I'm David Rojo.
 
-A software developer based in Málaga, specialized in web technologies like NestJs and Angular, among others. You can find a comprehensive list of my skills in the "Skills" section of my LinkedIn profile.
+A software developer based in Málaga, specialized in web technologies like NestJs, Angular, React ant Spring boot, among others. You can find a comprehensive list of my skills in the "Skills" section of my LinkedIn profile.
 
 During my spare time, I thrive on building side-projects, tackling challenging problems, reading, attending and organizing meetups, and contributing to open source projects.
 
